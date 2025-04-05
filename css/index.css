@@ -1,0 +1,17 @@
+h1 {
+
+    text-align: center;
+    color: #333;
+}
+
+h2 {
+    text-align: center;
+    color: #666;
+}
+
+.recipe {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
