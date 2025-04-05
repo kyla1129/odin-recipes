@@ -6,10 +6,19 @@ h1 {
 
 h2 {
     text-align: center;
-    color: #666;
+    color: #504f4f;
 }
 
-.recipe {
+.intro {
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.recipes {
+    text-align: center;
     margin: 20px;
     padding: 10px;
     border: 1px solid #ccc;
